@@ -145,3 +145,4 @@ C:\Users\User\OneDrive\Desktop\code.homeworks\MyApi1\MyApi1\obj\Debug\net8.0\ref
 C:\Users\User\OneDrive\Desktop\code.homeworks\MyApi1\MyApi1\obj\Debug\net8.0\MyApi1.pdb
 C:\Users\User\OneDrive\Desktop\code.homeworks\MyApi1\MyApi1\obj\Debug\net8.0\MyApi1.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\code.homeworks\MyApi1\MyApi1\obj\Debug\net8.0\ref\MyApi1.dll
+C:\Users\User\OneDrive\Desktop\code.homeworks\MyApi1\MyApi1\obj\Debug\net8.0\MyApi1.sourcelink.json

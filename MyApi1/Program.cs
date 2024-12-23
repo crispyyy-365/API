@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using MyApi1.DAL;
+using MyApi1.Repositories.Implementations;
+using MyApi1.Repositories.Interfaces;
 
 namespace MyApi1
 {
@@ -14,6 +15,7 @@ namespace MyApi1
             builder.Services.AddControllers();
             builder.Services.AddDbContext<AppDbContext>(
                 opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
+            builder.Services.AddScoped<IRepository, Repository>();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
