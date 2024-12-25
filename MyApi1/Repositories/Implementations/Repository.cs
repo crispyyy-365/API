@@ -27,7 +27,7 @@ namespace MyApi1.Repositories.Implementations
 			Expression<Func<T, object>>? orderExpression = null,
 			bool isDescending = false,
 			bool isTracking = false,
-			int skip = 0, 
+			int skip = 0,
 			int take = 0,
 			params string[]? includes)
 		{
@@ -44,7 +44,7 @@ namespace MyApi1.Repositories.Implementations
 			if (orderExpression != null) 
 				query = isDescending ? query.OrderByDescending(orderExpression) : query.OrderBy(orderExpression);
 		    query = query.Skip(skip);
-			if (take != 0)  
+			if (take != 0)
 				query = query.Take(take); 
 			return isTracking ? query : query.AsNoTracking();
 		}
