@@ -1,8 +1,10 @@
-﻿namespace MyApi1.Entity
+﻿using MyApi1.Entity.Base;
+
+namespace MyApi1.Entity
 {
-	public class Category
+	public class Category : BaseEntity
 	{
-		public int Id { get; set; }
 		public string Name { get; set; }
+		public ICollection<Product> Products { get; set; }
 	}
 }

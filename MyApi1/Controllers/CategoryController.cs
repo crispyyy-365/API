@@ -9,14 +9,16 @@ namespace MyApi1.Controllers
 	[ApiController]
 	public class CategoryController : ControllerBase
 	{
-		private readonly IRepository _repository;
-		public CategoryController(IRepository repository)
+		private readonly ICategoryRepository _repository;
+		public CategoryController(ICategoryRepository repository)
 		{
 			_repository = repository;
 		}
 		[HttpGet]
 		public async Task<IActionResult> Get(int page = 1, int take = 3)
 		{
+			int skipValue = (page - 1) * take;
+			//var categories = await _repository.GetAll(c => c.Name.Contains("Gu"), c => c.Name, false, true, skipValue, take, "Products").ToListAsync();
 			var categories = await _repository.GetAll().ToListAsync();
 			return StatusCode(StatusCodes.Status200OK, categories);
 		}
