@@ -2,7 +2,7 @@
 
 namespace MyApi1.DTOs.Color
 {
-	public class GetColorDetaiLDTO
+	public record GetColorDetailDTO
 	{
 		public int Id { get; set; }
 		public string Name { get; set; }

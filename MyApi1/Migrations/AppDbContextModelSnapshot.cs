@@ -9,7 +9,7 @@ using MyApi1.DAL;
 
 namespace MyApi1.Migrations
 {
-    [DbContext(typeof(AppDbContext))]
+    [DbContext(typeof(DbContextOptions))]
     partial class AppDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

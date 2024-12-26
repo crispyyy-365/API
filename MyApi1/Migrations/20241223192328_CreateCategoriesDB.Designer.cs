@@ -10,7 +10,7 @@ using MyApi1.DAL;
 
 namespace MyApi1.Migrations
 {
-    [DbContext(typeof(AppDbContext))]
+    [DbContext(typeof(DbContextOptions))]
     [Migration("20241223192328_CreateCategoriesDB")]
     partial class CreateCategoriesDB
     {

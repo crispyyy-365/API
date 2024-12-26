@@ -1,8 +1,8 @@
-﻿using MyApi1.DTOs.Category;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using MyApi1.DTOs.Category;
 
 namespace MyApi1.Services.Interfaces
 {

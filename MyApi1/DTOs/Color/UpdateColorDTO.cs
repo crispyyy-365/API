@@ -1,6 +1,6 @@
 ﻿namespace MyApi1.DTOs.Color
 {
-	public class UpdateColorDTO
+	public record UpdateColorDTO
 	{
 		public string Name { get; set; }
 	}
