@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using MyApi1.Repositories.Implementations;
 using MyApi1.Repositories.Interfaces;
+using MyApi1.Services.Implementations;
+using MyApi1.Services.Interfaces;
 using System.Text.Json.Serialization;
 
 namespace MyApi1
@@ -20,6 +22,7 @@ namespace MyApi1
                 opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
 			// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 			builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
@@ -36,7 +39,6 @@ namespace MyApi1
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
 
             app.MapControllers();
 

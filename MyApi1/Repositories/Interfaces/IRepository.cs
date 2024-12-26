@@ -14,10 +14,11 @@ namespace MyApi1.Repositories.Interfaces
 			int take = 0,
 			params string[]? includes
 			);
-		Task<T> GetByIdAsync(int id);
+		Task<T> GetByIdAsync(int id, params string[] includes);
 		Task AddAsync(T entity);
 		void Delete(T entity);
 		void Update(T entity);
+		Task<bool> AnyAsync(Expression<Func<T, bool>> expression);
 		Task<int> SaveChangesAsync();
 	}
 }

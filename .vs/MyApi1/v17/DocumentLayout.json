@@ -3,8 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\dtos\\color\\updatecolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\dtos\\color\\updatecolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\dtos\\color\\getcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\dtos\\color\\getcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\dtos\\color\\getcolordetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\dtos\\color\\getcolordetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\dtos\\color\\createcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\dtos\\color\\createcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,44 +91,12 @@
       "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|solutionrelative:myapi1\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38950CD7-D5C1-4388-8041-1EA74E6A28CE}|MyApi1\\MyApi1.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\myapi1\\myapi1\\migrations\\20241224193327_createproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,145 +134,197 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Implementations\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "MyApi1\\Repositories\\Implementations\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Implementations\\CategoryRepository.cs",
-              "RelativeToolTip": "MyApi1\\Repositories\\Implementations\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T14:16:57.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "MyApi1\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "MyApi1\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T14:13:28.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Implementations\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "MyApi1\\Repositories\\Implementations\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Implementations\\ProductRepository.cs",
-              "RelativeToolTip": "MyApi1\\Repositories\\Implementations\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:50:01.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "MyApi1\\Repositories\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "MyApi1\\Repositories\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:46:33.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\CreateCategoryDTO.cs",
-              "RelativeDocumentMoniker": "MyApi1\\DTOs\\CreateCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\CreateCategoryDTO.cs",
-              "RelativeToolTip": "MyApi1\\DTOs\\CreateCategoryDTO.cs",
+              "DocumentIndex": 0,
+              "Title": "UpdateColorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Color\\UpdateColorDTO.cs",
+              "RelativeDocumentMoniker": "MyApi1\\DTOs\\Color\\UpdateColorDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Color\\UpdateColorDTO.cs",
+              "RelativeToolTip": "MyApi1\\DTOs\\Color\\UpdateColorDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T20:39:37.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "MyApi1\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "MyApi1\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T18:56:33.44Z",
+              "WhenOpened": "2024-12-26T08:23:29.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "MyApi1\\Repositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "MyApi1\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Title": "CreateColorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Color\\CreateColorDTO.cs",
+              "RelativeDocumentMoniker": "MyApi1\\DTOs\\Color\\CreateColorDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Color\\CreateColorDTO.cs",
+              "RelativeToolTip": "MyApi1\\DTOs\\Color\\CreateColorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T22:30:13.731Z",
+              "WhenOpened": "2024-12-26T08:23:16.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Entity\\Category.cs",
-              "RelativeDocumentMoniker": "MyApi1\\Entity\\Category.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Entity\\Category.cs",
-              "RelativeToolTip": "MyApi1\\Entity\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "GetColorDetaiLDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Color\\GetColorDetaiLDTO.cs",
+              "RelativeDocumentMoniker": "MyApi1\\DTOs\\Color\\GetColorDetaiLDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Color\\GetColorDetaiLDTO.cs",
+              "RelativeToolTip": "MyApi1\\DTOs\\Color\\GetColorDetaiLDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T19:19:01.68Z",
+              "WhenOpened": "2024-12-26T08:23:04.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetColorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Color\\GetColorDTO.cs",
+              "RelativeDocumentMoniker": "MyApi1\\DTOs\\Color\\GetColorDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Color\\GetColorDTO.cs",
+              "RelativeToolTip": "MyApi1\\DTOs\\Color\\GetColorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:22:44.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Program.cs",
-              "RelativeDocumentMoniker": "MyApi1\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Program.cs",
-              "RelativeToolTip": "MyApi1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABQAAAAAAAAAA==",
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Entity\\Color.cs",
+              "RelativeDocumentMoniker": "MyApi1\\Entity\\Color.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Entity\\Color.cs",
+              "RelativeToolTip": "MyApi1\\Entity\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T18:53:38.335Z",
+              "WhenOpened": "2024-12-26T08:21:31.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "MyApi1\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "MyApi1\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:43:24.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Implementations\\Repository.cs",
               "RelativeDocumentMoniker": "MyApi1\\Repositories\\Implementations\\Repository.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Implementations\\Repository.cs",
               "RelativeToolTip": "MyApi1\\Repositories\\Implementations\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T22:31:44.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Entity\\Product.cs",
-              "RelativeDocumentMoniker": "MyApi1\\Entity\\Product.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Entity\\Product.cs",
-              "RelativeToolTip": "MyApi1\\Entity\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "GetCategoryDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "RelativeDocumentMoniker": "MyApi1\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "RelativeToolTip": "MyApi1\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T14:26:42.965Z",
+              "WhenOpened": "2024-12-26T05:29:18.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Category\\GetCategoryDTO.cs",
+              "RelativeDocumentMoniker": "MyApi1\\DTOs\\Category\\GetCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Category\\GetCategoryDTO.cs",
+              "RelativeToolTip": "MyApi1\\DTOs\\Category\\GetCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:31:36.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "MyApi1\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "RelativeToolTip": "MyApi1\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:42:44.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MyApi1\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MyApi1\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:56:33.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "MyApi1\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "MyApi1\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:30:13.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "MyApi1\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "MyApi1\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:43:10.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MyApi1\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "MyApi1\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:59:12.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "MyApi1\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "RelativeToolTip": "MyApi1\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:39:37.894Z",
               "EditorCaption": ""
             },
             {
@@ -247,19 +343,106 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MyApi1\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "MyApi1\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "MyApi1\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Entity\\Category.cs",
+              "RelativeToolTip": "MyApi1\\Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T18:59:12.789Z",
+              "WhenOpened": "2024-12-23T19:19:01.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "MyApi1\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Entity\\Product.cs",
+              "RelativeToolTip": "MyApi1\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:26:42.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Product\\GetProductDTO.cs",
+              "RelativeDocumentMoniker": "MyApi1\\DTOs\\Product\\GetProductDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\DTOs\\Product\\GetProductDTO.cs",
+              "RelativeToolTip": "MyApi1\\DTOs\\Product\\GetProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:30:23.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MyApi1\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "MyApi1\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:46:33.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MyApi1\\Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "MyApi1\\Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:50:01.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "MyApi1\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "MyApi1\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:13:28.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Program.cs",
+              "RelativeDocumentMoniker": "MyApi1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Program.cs",
+              "RelativeToolTip": "MyApi1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:53:38.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "MyApi1\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "MyApi1\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:16:57.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "MyApi1\\GlobalUsings.cs",
@@ -271,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "20241224193327_CreateProductsTable.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Migrations\\20241224193327_CreateProductsTable.cs",
               "RelativeDocumentMoniker": "MyApi1\\Migrations\\20241224193327_CreateProductsTable.cs",
@@ -283,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\appsettings.json",
               "RelativeDocumentMoniker": "MyApi1\\appsettings.json",
@@ -295,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "20241223192328_CreateCategoriesDB.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\MyApi1\\MyApi1\\Migrations\\20241223192328_CreateCategoriesDB.cs",
               "RelativeDocumentMoniker": "MyApi1\\Migrations\\20241223192328_CreateCategoriesDB.cs",
