@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
 using MyApi1.DTOs.Category;
+using MyApi1.DTOs.Color;
 using MyApi1.Services.Interfaces;
 
 namespace MyApi1.Controllers

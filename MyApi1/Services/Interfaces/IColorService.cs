@@ -6,7 +6,7 @@ using MyApi1.DTOs.Color;
 
 namespace MyApi1.Services.Interfaces
 {
-    interface IColorService
+    public interface IColorService
     {
         Task<IEnumerable<GetColorDTO>> GetAllAsync(int page, int take);
         Task<GetColorDetailDTO> GetByIdAsync(int id);

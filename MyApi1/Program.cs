@@ -18,7 +18,7 @@ namespace MyApi1
             builder.Services.AddControllers()
                 .AddJsonOptions(x => x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
             builder.Services.AddControllers();
-            builder.Services.AddDbContext<DbContextOptions>(
+            builder.Services.AddDbContext<AppDbContext>(
                 opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
             builder.Services.AddScoped<IProductRepository, ProductRepository>();

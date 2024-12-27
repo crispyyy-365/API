@@ -2,15 +2,18 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using MyApi1.DTOs.Color;
+using MyApi1.DTOs.Product;
 using MyApi1.Repositories.Interfaces;
+using MyApi1.Services.Interfaces;
 
 namespace MyApi1.Services.Implementations
 {
     public class ColorService : IColorService
     {
         private readonly IColorRepository _repository;
-        public CategoryService(IColorRepository repository)
+        public ColorService(IColorRepository repository)
         {
             _repository = repository;
         }

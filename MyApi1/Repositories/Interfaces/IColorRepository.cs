@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace MyApi1.Repositories.Interfaces
 {
-    interface IColorRepository : IRepository<Color>
+    public interface IColorRepository : IRepository<Color>
     {
 
     }

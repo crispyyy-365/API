@@ -9,6 +9,6 @@ namespace MyApi1.Repositories.Implementations
 {
     public class ColorRepository : Repository<Color>, IColorRepository
     {
-        public ColorRepository(DbContextOptions<AppDbContext> options) : base(options) { }
+        public ColorRepository(AppDbContext context) : base(context) { }
     }
 }
